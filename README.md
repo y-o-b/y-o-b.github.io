@@ -1,2 +1,0 @@
-# Nothing
-[Tabelle](table.md)
